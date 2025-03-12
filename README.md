@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&duration=2000&pause=1000&color=18F744&background=00000029&center=true&random=false&width=435&lines=Hi%F0%9F%A5%B7;+I'm+Am+Victor+Ya%C3%B1ez.;I'm+a+Student+developer.;YERRAAAAA)](https://git.io/typing-svg)
 
 <h3 align="left">Languages:</h3>
 
